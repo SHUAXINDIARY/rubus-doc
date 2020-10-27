@@ -1,0 +1,21 @@
+{
+  "zh": [
+    { "url": "./", "name": "首页" },
+    { "url": "./docs", "name": "文档" },
+    { "url": "./resources", "name": "资源" }
+  ],
+  "en": [
+    {
+      "url": "./",
+      "name": "Home"
+    },
+    {
+      "url": "./docs",
+      "name": "Docs"
+    },
+    {
+      "url": "./resources",
+      "name": "Resources"
+    }
+  ]
+}
