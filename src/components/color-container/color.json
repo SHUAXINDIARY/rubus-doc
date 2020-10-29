@@ -1,0 +1,962 @@
+{
+  "light": {
+    "globalColor": [
+      [
+        {
+          "name": "GRAY 50",
+          "code": "#FFFFFF"
+        },
+        {
+          "name": "GRAY 75",
+          "code": "#FAFAFA"
+        },
+        {
+          "name": "GRAY 100",
+          "code": "#F5F5F5"
+        },
+        {
+          "name": "GRAY 200",
+          "code": "#EAEAEA"
+        },
+        {
+          "name": "GRAY 300",
+          "code": "#E1E1E1"
+        },
+        {
+          "name": "GRAY 400",
+          "code": "#CACACA"
+        },
+        {
+          "name": "GRAY 500",
+          "code": "#B3B3B3"
+        },
+        {
+          "name": "GRAY 600",
+          "code": "#8E8E8E"
+        },
+        {
+          "name": "GRAY 700",
+          "code": "#6E6E6E"
+        },
+        {
+          "name": "GRAY 800",
+          "code": "#4B4B4B"
+        },
+        {
+          "name": "GRAY 900",
+          "code": "#2C2C2C"
+        }
+      ],
+      [
+        {
+          "name": "BLUE 400",
+          "code": "#2680EB"
+        },
+        {
+          "name": "BLUE 500",
+          "code": "#1473E6"
+        },
+        {
+          "name": "BLUE 600",
+          "code": "#0D66D0"
+        },
+        {
+          "name": "BLUE 700",
+          "code": "#095ABA"
+        }
+      ],
+      [
+        {
+          "name": "RED 400",
+          "code": "#E34850"
+        },
+        {
+          "name": "RED 500",
+          "code": "#D7373F"
+        },
+        {
+          "name": "RED 600",
+          "code": "#C9252D"
+        },
+        {
+          "name": "RED 700",
+          "code": "#BB121A"
+        }
+      ],
+      [
+        {
+          "name": "ORANGE 400",
+          "code": "#E68619"
+        },
+        {
+          "name": "ORANGE 500",
+          "code": "#DA7B11"
+        },
+        {
+          "name": "ORANGE 600",
+          "code": "#CB6F10"
+        },
+        {
+          "name": "ORANGE 700",
+          "code": "#BD640D"
+        }
+      ],
+      [
+        {
+          "name": "GREEN 400",
+          "code": "#2D9D78"
+        },
+        {
+          "name": "GREEN 500",
+          "code": "#268E6C"
+        },
+        {
+          "name": "GREEN 600",
+          "code": "#12805C"
+        },
+        {
+          "name": "GREEN 700",
+          "code": "#107154"
+        }
+      ]
+    ],
+    "staticColor": [
+      [
+        {
+          "name": "STATIC WHITE",
+          "code": "#FFFFFF"
+        },
+        {
+          "name": "STATIC BLACK",
+          "code": "#000000"
+        }
+      ],
+      [
+        {
+          "name": "STATIC GRAY 200",
+          "code": "#F4F4F4"
+        },
+        {
+          "name": "STATIC GRAY 300",
+          "code": "#EAEAEA"
+        },
+        {
+          "name": "STATIC GRAY 400",
+          "code": "#D3D3D3"
+        },
+        {
+          "name": "STATIC GRAY 500",
+          "code": "#BCBCBC"
+        },
+        {
+          "name": "STATIC GRAY 600",
+          "code": "#959595"
+        },
+        {
+          "name": "STATIC GRAY 700",
+          "code": "#747474"
+        },
+        {
+          "name": "STATIC GRAY 800",
+          "code": "#505050"
+        },
+        {
+          "name": "STATIC GRAY 900",
+          "code": "#323232"
+        }
+      ],
+      [
+        {
+          "name": "STATIC BLUE 400",
+          "code": "#378EF0"
+        },
+        {
+          "name": "STATIC BLUE 500",
+          "code": "#2680EB"
+        },
+        {
+          "name": "STATIC BLUE 600",
+          "code": "#1473E6"
+        },
+        {
+          "name": "STATIC BLUE 700",
+          "code": "#0D66D0"
+        }
+      ],
+      [
+        {
+          "name": "STATIC RED 400",
+          "code": "#EC5B62"
+        },
+        {
+          "name": "STATIC RED 500",
+          "code": "#E34850"
+        },
+        {
+          "name": "STATIC RED 600",
+          "code": "#D7373F"
+        },
+        {
+          "name": "STATIC RED 700",
+          "code": "#C9252D"
+        }
+      ],
+      [
+        {
+          "name": "STATIC ORANGE 400",
+          "code": "#F29423"
+        },
+        {
+          "name": "STATIC ORANGE 500",
+          "code": "#E68619"
+        },
+        {
+          "name": "STATIC ORANGE 600",
+          "code": "#DA7B11"
+        },
+        {
+          "name": "STATIC ORANGE 700",
+          "code": "#CB6F10"
+        }
+      ],
+      [
+        {
+          "name": "STATIC GREEN 400",
+          "code": "#33ABB4"
+        },
+        {
+          "name": "STATIC GREEN 500",
+          "code": "#2D9D78"
+        },
+        {
+          "name": "STATIC GREEN 600",
+          "code": "#268E6C"
+        },
+        {
+          "name": "STATIC GREEN 400",
+          "code": "#12805C"
+        }
+      ]
+    ]
+  },
+  "lightest": {
+    "globalColor": [
+      [
+        {
+          "name": "GRAY 50",
+          "code": "#FFFFFF"
+        },
+        {
+          "name": "GRAY 75",
+          "code": "#FFFFFF"
+        },
+        {
+          "name": "GRAY 100",
+          "code": "#FFFFFF"
+        },
+        {
+          "name": "GRAY 200",
+          "code": "#F4F4F4"
+        },
+        {
+          "name": "GRAY 300",
+          "code": "#eaeaea"
+        },
+        {
+          "name": "GRAY 400",
+          "code": "#d3d3d3"
+        },
+        {
+          "name": "GRAY 500",
+          "code": "#bcbcbc"
+        },
+        {
+          "name": "GRAY 600",
+          "code": "#959595"
+        },
+        {
+          "name": "GRAY 700",
+          "code": "#747474"
+        },
+        {
+          "name": "GRAY 800",
+          "code": "#505050"
+        },
+        {
+          "name": "GRAY 900",
+          "code": "#323232"
+        }
+      ],
+      [
+        {
+          "name": "BLUE 400",
+          "code": "#378ef0"
+        },
+        {
+          "name": "BLUE 500",
+          "code": "#2680eb"
+        },
+        {
+          "name": "BLUE 600",
+          "code": "#1473e6"
+        },
+        {
+          "name": "BLUE 700",
+          "code": "#0d66d0"
+        }
+      ],
+      [
+        {
+          "name": "RED 400",
+          "code": "#ec5b62"
+        },
+        {
+          "name": "RED 500",
+          "code": "#e34850"
+        },
+        {
+          "name": "RED 600",
+          "code": "#d7373f"
+        },
+        {
+          "name": "RED 700",
+          "code": "#c9252d"
+        }
+      ],
+      [
+        {
+          "name": "ORANGE 400",
+          "code": "#f29423"
+        },
+        {
+          "name": "ORANGE 500",
+          "code": "#e68619"
+        },
+        {
+          "name": "ORANGE 600",
+          "code": "#da7b11"
+        },
+        {
+          "name": "ORANGE 700",
+          "code": "#cb6f10"
+        }
+      ],
+      [
+        {
+          "name": "GREEN 400",
+          "code": "#33ab84"
+        },
+        {
+          "name": "GREEN 500",
+          "code": "#2d9d78"
+        },
+        {
+          "name": "GREEN 600",
+          "code": "#268e6c"
+        },
+        {
+          "name": "GREEN 700",
+          "code": "#12805c"
+        }
+      ]
+    ],
+    "staticColor": [
+      [
+        {
+          "name": "STATIC WHITE",
+          "code": "#FFFFFF"
+        },
+        {
+          "name": "STATIC BLACK",
+          "code": "#000000"
+        }
+      ],
+      [
+        {
+          "name": "STATIC GRAY 200",
+          "code": "#F4F4F4"
+        },
+        {
+          "name": "STATIC GRAY 300",
+          "code": "#EAEAEA"
+        },
+        {
+          "name": "STATIC GRAY 400",
+          "code": "#D3D3D3"
+        },
+        {
+          "name": "STATIC GRAY 500",
+          "code": "#BCBCBC"
+        },
+        {
+          "name": "STATIC GRAY 600",
+          "code": "#959595"
+        },
+        {
+          "name": "STATIC GRAY 700",
+          "code": "#747474"
+        },
+        {
+          "name": "STATIC GRAY 800",
+          "code": "#505050"
+        },
+        {
+          "name": "STATIC GRAY 900",
+          "code": "#323232"
+        }
+      ],
+      [
+        {
+          "name": "STATIC BLUE 400",
+          "code": "#378EF0"
+        },
+        {
+          "name": "STATIC BLUE 500",
+          "code": "#2680EB"
+        },
+        {
+          "name": "STATIC BLUE 600",
+          "code": "#1473E6"
+        },
+        {
+          "name": "STATIC BLUE 700",
+          "code": "#0D66D0"
+        }
+      ],
+      [
+        {
+          "name": "STATIC RED 400",
+          "code": "#EC5B62"
+        },
+        {
+          "name": "STATIC RED 500",
+          "code": "#E34850"
+        },
+        {
+          "name": "STATIC RED 600",
+          "code": "#D7373F"
+        },
+        {
+          "name": "STATIC RED 700",
+          "code": "#C9252D"
+        }
+      ],
+      [
+        {
+          "name": "STATIC ORANGE 400",
+          "code": "#F29423"
+        },
+        {
+          "name": "STATIC ORANGE 500",
+          "code": "#E68619"
+        },
+        {
+          "name": "STATIC ORANGE 600",
+          "code": "#DA7B11"
+        },
+        {
+          "name": "STATIC ORANGE 700",
+          "code": "#CB6F10"
+        }
+      ],
+      [
+        {
+          "name": "STATIC GREEN 400",
+          "code": "#33ABB4"
+        },
+        {
+          "name": "STATIC GREEN 500",
+          "code": "#2D9D78"
+        },
+        {
+          "name": "STATIC GREEN 600",
+          "code": "#268E6C"
+        },
+        {
+          "name": "STATIC GREEN 400",
+          "code": "#12805C"
+        }
+      ]
+    ]
+  },
+  "dark": {
+    "globalColor": [
+      [
+        {
+          "name": "GRAY 50",
+          "code": "#252525"
+        },
+        {
+          "name": "GRAY 75",
+          "code": "#2F2F2F"
+        },
+        {
+          "name": "GRAY 100",
+          "code": "#323232"
+        },
+        {
+          "name": "GRAY 200",
+          "code": "#3E3E3E"
+        },
+        {
+          "name": "GRAY 300",
+          "code": "#4A4A4A"
+        },
+        {
+          "name": "GRAY 400",
+          "code": "#5A5A5A"
+        },
+        {
+          "name": "GRAY 500",
+          "code": "#6E6E6E"
+        },
+        {
+          "name": "GRAY 600",
+          "code": "#909090"
+        },
+        {
+          "name": "GRAY 700",
+          "code": "#B9B9B9"
+        },
+        {
+          "name": "GRAY 800",
+          "code": "#E3E3E3"
+        },
+        {
+          "name": "GRAY 900",
+          "code": "#FFFFFF"
+        }
+      ],
+      [
+        {
+          "name": "BLUE 400",
+          "code": "#2680EB"
+        },
+        {
+          "name": "BLUE 500",
+          "code": "#378EF0"
+        },
+        {
+          "name": "BLUE 600",
+          "code": "#4B9CF5"
+        },
+        {
+          "name": "BLUE 700",
+          "code": "#5AA9FA"
+        }
+      ],
+      [
+        {
+          "name": "RED 400",
+          "code": "#E34850"
+        },
+        {
+          "name": "RED 500",
+          "code": "#EC5B62"
+        },
+        {
+          "name": "RED 600",
+          "code": "#F76D74"
+        },
+        {
+          "name": "RED 700",
+          "code": "#FF7B82"
+        }
+      ],
+      [
+        {
+          "name": "ORANGE 400",
+          "code": "#E68619"
+        },
+        {
+          "name": "ORANGE 500",
+          "code": "#F29423"
+        },
+        {
+          "name": "ORANGE 600",
+          "code": "#F9A43F"
+        },
+        {
+          "name": "ORANGE 700",
+          "code": "#FFB55B"
+        }
+      ],
+      [
+        {
+          "name": "GREEN 400",
+          "code": "#2D9D78"
+        },
+        {
+          "name": "GREEN 500",
+          "code": "#33AB84"
+        },
+        {
+          "name": "GREEN 600",
+          "code": "#39B990"
+        },
+        {
+          "name": "GREEN 700",
+          "code": "#3FC89C"
+        }
+      ]
+    ],
+    "staticColor": [
+      [
+        {
+          "name": "STATIC WHITE",
+          "code": "#FFFFFF"
+        },
+        {
+          "name": "STATIC BLACK",
+          "code": "#000000"
+        }
+      ],
+      [
+        {
+          "name": "STATIC GRAY 200",
+          "code": "#F4F4F4"
+        },
+        {
+          "name": "STATIC GRAY 300",
+          "code": "#EAEAEA"
+        },
+        {
+          "name": "STATIC GRAY 400",
+          "code": "#D3D3D3"
+        },
+        {
+          "name": "STATIC GRAY 500",
+          "code": "#BCBCBC"
+        },
+        {
+          "name": "STATIC GRAY 600",
+          "code": "#959595"
+        },
+        {
+          "name": "STATIC GRAY 700",
+          "code": "#747474"
+        },
+        {
+          "name": "STATIC GRAY 800",
+          "code": "#505050"
+        },
+        {
+          "name": "STATIC GRAY 900",
+          "code": "#323232"
+        }
+      ],
+      [
+        {
+          "name": "STATIC BLUE 400",
+          "code": "#378EF0"
+        },
+        {
+          "name": "STATIC BLUE 500",
+          "code": "#2680EB"
+        },
+        {
+          "name": "STATIC BLUE 600",
+          "code": "#1473E6"
+        },
+        {
+          "name": "STATIC BLUE 700",
+          "code": "#0D66D0"
+        }
+      ],
+      [
+        {
+          "name": "STATIC RED 400",
+          "code": "#EC5B62"
+        },
+        {
+          "name": "STATIC RED 500",
+          "code": "#E34850"
+        },
+        {
+          "name": "STATIC RED 600",
+          "code": "#D7373F"
+        },
+        {
+          "name": "STATIC RED 700",
+          "code": "#C9252D"
+        }
+      ],
+      [
+        {
+          "name": "STATIC ORANGE 400",
+          "code": "#F29423"
+        },
+        {
+          "name": "STATIC ORANGE 500",
+          "code": "#E68619"
+        },
+        {
+          "name": "STATIC ORANGE 600",
+          "code": "#DA7B11"
+        },
+        {
+          "name": "STATIC ORANGE 700",
+          "code": "#CB6F10"
+        }
+      ],
+      [
+        {
+          "name": "STATIC GREEN 400",
+          "code": "#33ABB4"
+        },
+        {
+          "name": "STATIC GREEN 500",
+          "code": "#2D9D78"
+        },
+        {
+          "name": "STATIC GREEN 600",
+          "code": "#268E6C"
+        },
+        {
+          "name": "STATIC GREEN 400",
+          "code": "#12805C"
+        }
+      ]
+    ]
+  },
+  "darkest": {
+    "globalColor": [
+      [
+        {
+          "name": "GRAY 50",
+          "code": "#080808"
+        },
+        {
+          "name": "GRAY 75",
+          "code": "#1a1a1a"
+        },
+        {
+          "name": "GRAY 100",
+          "code": "#1e1e1e"
+        },
+        {
+          "name": "GRAY 200",
+          "code": "#2c2c2c"
+        },
+        {
+          "name": "GRAY 300",
+          "code": "#393939"
+        },
+        {
+          "name": "GRAY 400",
+          "code": "#494949"
+        },
+        {
+          "name": "GRAY 500",
+          "code": "#5c5c5c"
+        },
+        {
+          "name": "GRAY 600",
+          "code": "#7c7c7c"
+        },
+        {
+          "name": "GRAY 700",
+          "code": "#a2a2a2"
+        },
+        {
+          "name": "GRAY 800",
+          "code": "#c8c8c8"
+        },
+        {
+          "name": "GRAY 900",
+          "code": "#efefef"
+        }
+      ],
+      [
+        {
+          "name": "BLUE 400",
+          "code": "#1473e6"
+        },
+        {
+          "name": "BLUE 500",
+          "code": "#2680eb"
+        },
+        {
+          "name": "BLUE 600",
+          "code": "#378ef0"
+        },
+        {
+          "name": "BLUE 700",
+          "code": "#4b9cf5"
+        }
+      ],
+      [
+        {
+          "name": "RED 400",
+          "code": "#d7373f"
+        },
+        {
+          "name": "RED 500",
+          "code": "#e34850"
+        },
+        {
+          "name": "RED 600",
+          "code": "#ec5b62"
+        },
+        {
+          "name": "RED 700",
+          "code": "#f76d74"
+        }
+      ],
+      [
+        {
+          "name": "ORANGE 400",
+          "code": "#da7b11"
+        },
+        {
+          "name": "ORANGE 500",
+          "code": "#e68619"
+        },
+        {
+          "name": "ORANGE 600",
+          "code": "#f29423"
+        },
+        {
+          "name": "ORANGE 700",
+          "code": "#f9a43f"
+        }
+      ],
+      [
+        {
+          "name": "GREEN 400",
+          "code": "#268e6c"
+        },
+        {
+          "name": "GREEN 500",
+          "code": "#2d9d78"
+        },
+        {
+          "name": "GREEN 600",
+          "code": "#33ab84"
+        },
+        {
+          "name": "GREEN 700",
+          "code": "#39b990"
+        }
+      ]
+    ],
+    "staticColor": [
+      [
+        {
+          "name": "STATIC WHITE",
+          "code": "#FFFFFF"
+        },
+        {
+          "name": "STATIC BLACK",
+          "code": "#000000"
+        }
+      ],
+      [
+        {
+          "name": "STATIC GRAY 200",
+          "code": "#F4F4F4"
+        },
+        {
+          "name": "STATIC GRAY 300",
+          "code": "#EAEAEA"
+        },
+        {
+          "name": "STATIC GRAY 400",
+          "code": "#D3D3D3"
+        },
+        {
+          "name": "STATIC GRAY 500",
+          "code": "#BCBCBC"
+        },
+        {
+          "name": "STATIC GRAY 600",
+          "code": "#959595"
+        },
+        {
+          "name": "STATIC GRAY 700",
+          "code": "#747474"
+        },
+        {
+          "name": "STATIC GRAY 800",
+          "code": "#505050"
+        },
+        {
+          "name": "STATIC GRAY 900",
+          "code": "#323232"
+        }
+      ],
+      [
+        {
+          "name": "STATIC BLUE 400",
+          "code": "#378EF0"
+        },
+        {
+          "name": "STATIC BLUE 500",
+          "code": "#2680EB"
+        },
+        {
+          "name": "STATIC BLUE 600",
+          "code": "#1473E6"
+        },
+        {
+          "name": "STATIC BLUE 700",
+          "code": "#0D66D0"
+        }
+      ],
+      [
+        {
+          "name": "STATIC RED 400",
+          "code": "#EC5B62"
+        },
+        {
+          "name": "STATIC RED 500",
+          "code": "#E34850"
+        },
+        {
+          "name": "STATIC RED 600",
+          "code": "#D7373F"
+        },
+        {
+          "name": "STATIC RED 700",
+          "code": "#C9252D"
+        }
+      ],
+      [
+        {
+          "name": "STATIC ORANGE 400",
+          "code": "#F29423"
+        },
+        {
+          "name": "STATIC ORANGE 500",
+          "code": "#E68619"
+        },
+        {
+          "name": "STATIC ORANGE 600",
+          "code": "#DA7B11"
+        },
+        {
+          "name": "STATIC ORANGE 700",
+          "code": "#CB6F10"
+        }
+      ],
+      [
+        {
+          "name": "STATIC GREEN 400",
+          "code": "#33ABB4"
+        },
+        {
+          "name": "STATIC GREEN 500",
+          "code": "#2D9D78"
+        },
+        {
+          "name": "STATIC GREEN 600",
+          "code": "#268E6C"
+        },
+        {
+          "name": "STATIC GREEN 400",
+          "code": "#12805C"
+        }
+      ]
+    ]
+  }
+}

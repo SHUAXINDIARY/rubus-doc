@@ -11,6 +11,7 @@
 
     display: block;
     margin-top: var(--spectrum-sidenav-heading-gap-top, var(--spectrum-global-dimension-size-200));
+    margin-bottom: var(--spectrum-global-dimension-size-800);
     padding-left: var(--spectrum-global-dimension-size-800);
   }
 </style>

@@ -1,8 +1,8 @@
 <script>
   import * as router from "./nav.json";
 
-  import { Dropdown } from "@rubus/rubus/src/packages/Dropdown";
-  import { MenuItem } from "@rubus/rubus/src/packages/Menu";
+  import { Picker, MenuItem } from "@rubus/rubus/src";
+
   import { beforeUpdate, getContext } from "svelte";
 
   export let segment = "";
@@ -157,7 +157,7 @@
     </li>
     <li class="nav-item nav-menu-area">
       <div class="theme-list">
-        <Dropdown
+        <Picker
           placeholder={$rubusDocConfig.theme.replace(/^\S/, (s) => s.toUpperCase())}
           isQuiet
           minWidth="80"
@@ -171,12 +171,13 @@
                 switchTheme(item);
               }} />
           {/each}
-        </Dropdown>
+        </Picker>
       </div>
       <div class="language-list">
-        <Dropdown placeholder="Language" isQuiet minWidth="80" resultIndex={resultLanguageIndex}>
+        <Picker placeholder="Language" isQuiet minWidth="80" resultIndex={resultLanguageIndex}>
           {#each languageList as lang, i}
             <MenuItem
+              minWidth="120"
               thisIndex={i}
               label={lang.name}
               resultIndex={resultLanguageIndex}
@@ -185,7 +186,7 @@
                 switchLanguage(lang.code);
               }} />
           {/each}
-        </Dropdown>
+        </Picker>
       </div>
     </li>
   </ul>

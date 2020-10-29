@@ -1,5 +1,5 @@
 <script>
-  import Code from "../components/Code.svelte";
+  import Code from "../components/code/Code.svelte";
   let code_sample = `var _self = (typeof window !== 'undefined')
 	? window   // if in browser
 	: (
