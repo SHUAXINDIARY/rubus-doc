@@ -12,16 +12,16 @@
       ],
     },
     {
-      title: "Asset",
+      title: "Assets",
       router: [
-        { url: "Token", name: "图标" },
+        { url: "./docs/assets/icons", name: "图标" },
         { url: "Token", name: "插画" },
       ],
     },
     {
       title: "Basic",
       router: [
-        { url: "Token", name: "Button 按钮" },
+        { url: "./docs/basic/button", name: "Button 按钮" },
         { url: "Token", name: "Link 链接" },
       ],
     },

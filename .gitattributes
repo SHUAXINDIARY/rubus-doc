@@ -1,2 +1,5 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+.DS_Store
+/node_modules/
+/src/node_modules/@sapper/
+yarn-error.log
+/__sapper__/

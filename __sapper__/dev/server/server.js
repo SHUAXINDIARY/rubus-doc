@@ -5,7 +5,7 @@ require('polka');
 require('compression');
 require('fs');
 require('path');
-require('./server-ed1a0e49.js');
+require('./server-5c89f628.js');
 require('stream');
 require('http');
 require('url');

@@ -906,10 +906,10 @@
     estree-walker "^1.0.1"
     picomatch "^2.2.2"
 
-"@rubus/rubus@^0.0.73":
-  version "0.0.73"
-  resolved "https://registry.yarnpkg.com/@rubus/rubus/-/rubus-0.0.73.tgz#1c61facb736077ca1c8fbdb865cb171e0b4cc619"
-  integrity sha512-XXzfq/yAjGf3lm+pMSrIvm+KWLvF/khWqQQ6VCLslRMW6JAz707Vp4ZG5XHobquXA3RG/a6f8qRSEJ9/YFtRTA==
+"@rubus/rubus@^0.0.74":
+  version "0.0.74"
+  resolved "https://registry.yarnpkg.com/@rubus/rubus/-/rubus-0.0.74.tgz#7e62814ee378ce0463cf363821961a87a067b53c"
+  integrity sha512-fd5BCkCFxmM5wlL85ytR6SHT8CBuqd9R+EF0JOyAJsUjvzV3Zo4Maz6GNodeUHA0uziBVE/AsiwmD8/OaEBhOg==
   dependencies:
     "@rubus/svelte-spectrum-icons-ui" "^0.1.96"
     "@rubus/svelte-spectrum-icons-workflow" "^0.1.7"

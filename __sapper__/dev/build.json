@@ -2,31 +2,77 @@
   "bundler": "rollup",
   "shimport": "2.0.4",
   "assets": {
-    "main": "client.2e005743.js"
+    "main": "client.819062b1.js"
   },
   "css": {
     "main": [
-      "client-be160699.css"
+      "client-a35f0bc6.css"
     ]
   },
   "dependencies": {
     "index.svelte": [
-      "index.bdbcf739.js",
+      "index.48608458.js",
+      "Code.90dabd2a.js",
       "inject_styles.5607aec6.js"
     ],
     "docs/_layout.svelte": [
-      "_layout.110070f3.js",
+      "_layout.9e240801.js",
       "inject_styles.5607aec6.js",
       "_layout-dd710098.css"
     ],
     "docs/index.svelte": [
-      "index.8aa8f936.js",
+      "index.fad07605.js",
       "inject_styles.5607aec6.js"
     ],
     "docs/csstokens/color/index.svelte": [
-      "index.8eec4fe6.js",
+      "index.a7b77892.js",
+      "SuccessMedium.82443d5f.js",
+      "index.umd.37669cb5.js",
+      "Button.d7bca58d.js",
+      "TypographyHeading.aded6356.js",
       "inject_styles.5607aec6.js",
       "index-eadf6d5c.css"
+    ],
+    "docs/assets/icons/index.svelte": [
+      "index.5f46c500.js",
+      "SuccessMedium.82443d5f.js",
+      "Transparency.e955ef3a.js",
+      "Button.d7bca58d.js",
+      "TypographyHeading.aded6356.js",
+      "inject_styles.5607aec6.js",
+      "index-0d95464c.css"
+    ],
+    "docs/basic/button/_layout.svelte": [
+      "_layout.b496b5c5.js",
+      "index.umd.37669cb5.js",
+      "TypographyHeading.aded6356.js",
+      "inject_styles.5607aec6.js",
+      "_layout-5b08e327.css"
+    ],
+    "docs/basic/button/index.svelte": [
+      "index.0dbc781f.js",
+      "inject_styles.5607aec6.js"
+    ],
+    "docs/basic/button/examples/index.svelte": [
+      "index.2c66a57e.js",
+      "inject_styles.5607aec6.js"
+    ],
+    "docs/basic/button/issues/index.svelte": [
+      "index.77ad2d2b.js",
+      "inject_styles.5607aec6.js"
+    ],
+    "docs/basic/button/props/index.svelte": [
+      "index.6a4891f1.js",
+      "inject_styles.5607aec6.js"
+    ],
+    "docs/basic/button/usage/index.svelte": [
+      "index.c0c5a6ee.js",
+      "Transparency.e955ef3a.js",
+      "Button.d7bca58d.js",
+      "TypographyHeading.aded6356.js",
+      "Code.90dabd2a.js",
+      "inject_styles.5607aec6.js",
+      "index-7d387ce9.css"
     ]
   }
 }

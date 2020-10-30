@@ -8,4 +8,11 @@
   });
 </script>
 
+<style>
+  pre {
+    max-height: 400px;
+    margin: 0;
+  }
+</style>
+
 <pre class="line-numbers"><code class="language-{language}">{code}</code></pre>

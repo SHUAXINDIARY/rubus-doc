@@ -50,7 +50,7 @@
     background-color: var(--spectrum-global-color-gray-50);
     display: flex;
     justify-content: center;
-    z-index: 200;
+    z-index: 99;
   }
   ul {
     margin: 0;
@@ -177,7 +177,6 @@
         <Picker placeholder="Language" isQuiet minWidth="80" resultIndex={resultLanguageIndex}>
           {#each languageList as lang, i}
             <MenuItem
-              minWidth="120"
               thisIndex={i}
               label={lang.name}
               resultIndex={resultLanguageIndex}
